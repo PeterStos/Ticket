@@ -1,4 +1,4 @@
-# Ticket
+# Ticket App
 Ticket App to enter software and hardware issues
 
 ## In development
