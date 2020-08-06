@@ -1,6 +1,9 @@
 # Ticket App
-Ticket App to enter software and hardware issues
+App under development to log software and hardware issues.
+Developed using:
+- C#
+- Windows Forms
+- Entity Framework 
 
 ## In development
-- Form 1: stores information
-- Form 2: where tickets are created describing the issues to be resolved (hardware or software)
+- Form 2: where tickets are created describing the issues to be resolved.
