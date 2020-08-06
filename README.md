@@ -6,6 +6,7 @@ Developed using:
 - Entity Framework 
 
 The first form is made to add new stores into the database with its country, province/state and city:
+
 ![alt text](https://github.com/PeterStos/Ticket/blob/master/Ticket/ticket.PNG?raw=true)
 
 
